@@ -1,0 +1,4 @@
+<project outputDir="D:\Projects\Starting With C#\c#\calc_div\Confused" baseDir="D:\Projects\Starting With C#\c#\calc_div" seed="" xmlns="http://confuser.codeplex.com">
+  <module path="calc_div\bin\Debug\calc_div.exe" />
+  <module path="calc_div\bin\Debug\calc_div.vshost.exe" />
+</project>

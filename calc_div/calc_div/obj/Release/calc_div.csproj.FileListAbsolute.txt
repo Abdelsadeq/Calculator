@@ -1,0 +1,9 @@
+D:\Projects\Starting With C#\c#\calc_div\calc_div\bin\Release\calc_div.exe.config
+D:\Projects\Starting With C#\c#\calc_div\calc_div\bin\Release\calc_div.exe
+D:\Projects\Starting With C#\c#\calc_div\calc_div\bin\Release\calc_div.pdb
+D:\Projects\Starting With C#\c#\calc_div\calc_div\obj\Release\calc_div.csprojResolveAssemblyReference.cache
+D:\Projects\Starting With C#\c#\calc_div\calc_div\obj\Release\calc_div.Form1.resources
+D:\Projects\Starting With C#\c#\calc_div\calc_div\obj\Release\calc_div.Properties.Resources.resources
+D:\Projects\Starting With C#\c#\calc_div\calc_div\obj\Release\calc_div.csproj.GenerateResource.Cache
+D:\Projects\Starting With C#\c#\calc_div\calc_div\obj\Release\calc_div.exe
+D:\Projects\Starting With C#\c#\calc_div\calc_div\obj\Release\calc_div.pdb
