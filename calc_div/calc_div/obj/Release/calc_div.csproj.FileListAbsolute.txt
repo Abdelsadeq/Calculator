@@ -7,3 +7,6 @@ D:\Projects\Starting With C#\c#\calc_div\calc_div\obj\Release\calc_div.Propertie
 D:\Projects\Starting With C#\c#\calc_div\calc_div\obj\Release\calc_div.csproj.GenerateResource.Cache
 D:\Projects\Starting With C#\c#\calc_div\calc_div\obj\Release\calc_div.exe
 D:\Projects\Starting With C#\c#\calc_div\calc_div\obj\Release\calc_div.pdb
+C:\Users\Elfergane\Desktop\Hello\calc_div\calc_div\bin\Release\calc_div.exe.config
+C:\Users\Elfergane\Desktop\Hello\calc_div\calc_div\obj\Release\calc_div.exe
+C:\Users\Elfergane\Desktop\Hello\calc_div\calc_div\obj\Release\calc_div.pdb

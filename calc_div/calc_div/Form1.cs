@@ -36,7 +36,7 @@ namespace calc_div
             }
             if (test)
             { txtDiv.BackColor = Color.Red; }
-            MessageBox.Show("hello ");
+            MessageBox.Show("hello worled ");
         }
     }
 }
